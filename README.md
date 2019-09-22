@@ -4,7 +4,7 @@
 Usage
 
 ```
-$ git clone oyamoh-brian/bible-4-devs.git [folder]
+$ git clone https://github.com/oyamoh-brian/bible-4-devs.git [folder]
 $ cd [folder]
 $ node bible.js
 
